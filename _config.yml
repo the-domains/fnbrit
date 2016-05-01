@@ -1,7 +1,7 @@
 name: fnBrit
 favicon: null
-layout_spectrum: 0.19660434569232166
-typography_spectrum: 0.6300619472749531
+layout_spectrum: 1
+typography_spectrum: 0.89842
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.8674648315645754
-  lightness: 0.5160436776932329
-  saturation: 0.38553733471781015
-  rhythmicContrast: 0.22199780237860978
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
