@@ -1,0 +1,28 @@
+name: fnBrit
+favicon: null
+layout_spectrum: 0.19660434569232166
+typography_spectrum: 0.6300619472749531
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8674648315645754
+  lightness: 0.5160436776932329
+  saturation: 0.38553733471781015
+  rhythmicContrast: 0.22199780237860978
+purpose: []
