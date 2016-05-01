@@ -2,6 +2,7 @@ name: fnBrit
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.89842
+title: fnBrit
 cta:
   domain: null
   bucket: null
