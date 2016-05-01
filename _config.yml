@@ -1,7 +1,7 @@
 name: fnBrit
 favicon: null
-layout_spectrum: 0.2905
-typography_spectrum: 0.89842
+layout_spectrum: 0.08113
+typography_spectrum: 0.94029
 title: fnBrit
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.6875
-  lightness: 0.5
-  saturation: 0.9375
-  rhythmicContrast: 0.25
+  lightness: 0.375
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
