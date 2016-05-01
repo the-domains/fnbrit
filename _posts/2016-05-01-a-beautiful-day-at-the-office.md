@@ -1,16 +1,25 @@
 ---
-title: A beautiful day at the office.
-datePublished: '2016-05-01T01:30:05.609Z'
-dateModified: '2016-05-01T01:23:14.112Z'
-author: []
-description: ''
-starred: false
-sourcePath: _posts/2016-05-01-a-beautiful-day-at-the-office.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-01T01:47:06.030Z'
+dateModified: '2016-05-01T01:30:09.983Z'
+title: A beautiful day at the office.
+author: []
+sourcePath: _posts/2016-05-01-a-beautiful-day-at-the-office.md
+published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # A beautiful day at the office.
